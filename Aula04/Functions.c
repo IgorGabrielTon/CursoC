@@ -10,6 +10,7 @@ void FuncVaziaApr(){
 
 const char* print(char texto[]){
     printf("%s\n", texto);
+    return texto;
 }
 
 int main(){
