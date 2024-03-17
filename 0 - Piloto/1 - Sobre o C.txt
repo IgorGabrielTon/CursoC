@@ -1,0 +1,14 @@
+1960
+Por volta de 1960 o desenvolvimento de sistemas era feito em assembly ou fortram, algol...., linguagens não produtivas ou ideiais para criar sistemas operacionais.
+
+1970
+Então um cientista da computação chamado Dennis Ritchie do Bell Labs começou a criação de uma linguagem chamada "B" em homenagem a linguagem BCPL (Baltimore County Public Library), para criar sistemas operacionais Unix.
+
+1972
+Os co-criadores do sistema Unix (Linux, Mac os X) Ritchie e Ken Thompson, aplimoram o B, e renomeiam para C, e melhoram a portabilidade e eficiência.
+
+Para desenvoler em C no Windows é necessário instalar o MinGW que permite usar o compiladore GCC (GNU Compiler Collection) 
+
+Para visual studio code instalar:
+  C/C++ 
+  C/C++ Compiler Run
